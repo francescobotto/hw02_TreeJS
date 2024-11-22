@@ -206,6 +206,9 @@ function App() {
           <p style={{ margin: "0px", padding: "0px" }}>
             {"Use buttons to change orientation of plane"}
           </p>
+          <p style={{ margin: "0px", padding: "0px" }}>
+            {"Slide to change concentration threshold"}
+          </p>
         </div>
         <div style={{ width: "100%", height: "3em", marginTop: "1em" }}>
           {"Slice Plane: "}
